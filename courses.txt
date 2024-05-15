@@ -1,0 +1,9 @@
+10002,Algorithms and data structures
+10003,Database Management Systems
+10004,Operating Systems
+10005,Computer Networks
+10006,Soft Engineering
+10007,Machine Learning
+10008,Web Development
+10009,Computer Graphics
+10011,Computer science
